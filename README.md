@@ -1,40 +1,46 @@
-# Amazon Website Clone (Frontend only)
-Here's a screenshot of what the project's first page looks like:
-<img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-1.jpeg" alt="Amazon home page" />
-<img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-2.jpeg" alt="Amazon home page" />
-<img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-3.jpeg" alt="Amazon side menu page" />
+![Screenshot (30)](https://github.com/user-attachments/assets/0531e299-e7f6-45ad-82d8-cb4fda6be1c8)
+![Screenshot (31)](https://github.com/user-attachments/assets/3afd0210-6abd-492e-99f1-278671f534b5)
+![Screenshot (55)](https://github.com/user-attachments/assets/c7846f29-7e0c-44a5-84a5-e2fec3f7b72d)
+![Screenshot (56)](https://github.com/user-attachments/assets/b572f641-44de-4d51-816a-3da733e77577)
+![Screenshot (57)](https://github.com/user-attachments/assets/13f10163-ccbc-4324-96a3-b485cb4776cf)
+![Screenshot (58)](https://github.com/user-attachments/assets/60c5b3bd-0d17-4a2e-b763-a8854529e4bc)
 
-## Table of Contents
+Project Title: Amazon Clone (Frontend Project)
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Why Create an Amazon Clone?](#why-create-an-amazon-clone)
+Project Description:
 
-## Introduction
+This is one of my personal projects where I have invested significant effort to replicate the frontend design and functionality of the Amazon website using HTML5, CSS3, and JavaScript. Although the project currently focuses only on the frontend, I plan to continue developing it by implementing backend functionality and database integration in the future to make it more realistic and fully functional.
 
-Welcome to the frontend Amazon Clone website! This project is a replica of the popular e-commerce platform, Amazon, created using HTML, CSS and Vanilla JS. 
+Key Features:
 
-## Features
+Homepage: A faithful recreation of Amazon's homepage with featured products, rotating banners, and current deals.
 
-- **Homepage**: A faithful representation of the Amazon homepage with featured products.
-- **Product Listing**: Display products with images, titles, prices, and ratings.
-- **Cart Functionality**: Allow users to add and remove items from their shopping cart.
-- **User Authentication**: Implement basic user login and registration functionality.
-- **Responsive Design**: Optimize the website for desktop, enhancing your responsive web design skills.
+Product Listing: Displays products with images, titles, prices, and customer ratings, simulating real-world product showcases.
 
+Cart Functionality: Users can add and remove items from their shopping cart dynamically on the client side.
 
-# Technologies:
-* HTML5
-* CSS3
-* CSS Animations
-* Javascript
-* Netlify
+User Authentication: A basic simulated login and registration system (frontend-only at this stage).
 
-## Why create an amazon clone ?
-Creating an Amazon clone is an excellent idea for both beginners and intermediate developers because:
-- **Real-World Application**: Amazon is a renowned e-commerce platform, and building a clone allows you to work on a project with real-world relevance. You'll gain practical experience that can be invaluable for your skill development.
-- **Fundamental Web Development Skill**s: Building an Amazon clone involves using core web development technologies like HTML and CSS. This project provides an opportunity to master these foundational skills that are essential for web development.
-- **UI/UX Design**: Replicating Amazon's user interface and user experience is a great way to improve your design skills. You'll learn how to structure web pages effectively and make them visually appealing.
-- **Responsive Design**: Ensuring your clone works seamlessly on both desktop and mobile devices is a critical aspect of web development. This project will help you become proficient in creating responsive designs, a highly sought-after skill.
-- **JavaScript Interactivity**: Implementing features like adding/removing items from the cart, user authentication, and dynamic content loading using JavaScript will teach you how to make your websites interactive and engaging.
-- **Database Integration** (Optional): If you choose to extend your Amazon clone, you can integrate a database to store user data and product information. This will introduce you to back-end development concepts.
+Sidebar Navigation: A collapsible sidebar menu for category-based browsing.
+
+Arrow-based Scrolling: Left and right arrow buttons to navigate through product carousels.
+
+Back to Top Button: Enables users to quickly scroll back to the top.
+
+Responsive Design: Optimized for desktop screens with responsive design techniques.
+
+Why Amazon Clone?
+
+I chose to build an Amazon clone because Amazon represents a complex and fully-featured e-commerce platform. It allowed me to challenge myself with real-world frontend development problems such as layout design, user interaction, dynamic components, and responsive behavior. Through this project, I improved my skills in HTML, CSS, and JavaScript, and gained deeper knowledge of DOM manipulation and interactive UI design.
+
+Since this is only the frontend part right now, I plan to add backend functionalities such as database integration, real user authentication, and dynamic product management in the future to make the clone even more realistic and feature-complete.
+
+Technologies Used:
+
+HTML5 – For semantic page structure.
+
+CSS3 – For styling, layout, and responsive design.
+
+CSS Animations – To enhance the visual experience.
+
+JavaScript (Vanilla JS) – For interactivity, event handling, and DOM manipulation.
